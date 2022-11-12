@@ -1,7 +1,7 @@
 {
 "characters" : 
   {
-  "albedo" : {"name" : "Albedo", "element" : "char_element", "weapon" : "weapon_type", "rarity" : "char_rarity", "nation" : "NATION", "affiliation" : "AFFILIATION", "constellation" : "CONSTELLATION", "description" : "char_description", "phrase" : "favorite_phrase", "icon" : "icon_url", "banner" : "banner_url", "namecard" : "namecard_url"}, 
+  "albedo" : {"name" : "Albedo", "element" : "char_element", "weapon" : "weapon_type", "rarity" : "char_rarity", "nation" : "NATION", "affiliation" : "AFFILIATION", "constellation" : "CONSTELLATION", "description" : "char_description", "phrase" : "favorite_phrase", "icon" : "icon_url", "banner" : "banner_url", "namecard" : "namecard_url", "best_weapons" : ["1","2","3"], "stats_priority" : ["1","2","3"], "talent_priority" : ["1","2","3"], "ascension_materials" : "ascensionURL", "best_team" : "teamURL"}, 
   "Aloy" : ["a", "l", "o", "y"], 
   "Amber" : ["a", "m", "b", "e", "r"], 
   "Arataki Itto" : ["i", "t", "t", "o"]
