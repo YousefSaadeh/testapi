@@ -48,46 +48,46 @@
     },
     "aloy" :
     {
-      "name" :"", 
-      "element" :"", 
-      "weapon" :"", 
-      "rarity" :"", 
-      "nation" :"", 
-      "affiliation" :"", 
-      "constellation" :"", 
-      "description" :"", 
-      "hello" :"", 
-      "phrase" :"", 
+      "name" :"null", 
+      "element" :"null", 
+      "weapon" :"null", 
+      "rarity" :"null", 
+      "nation" :"null", 
+      "affiliation" :"null", 
+      "constellation" :"null", 
+      "description" :"null", 
+      "hello" :"null", 
+      "phrase" :"null", 
       "namecard" :
         {
-        "pic" :"", 
-        "name" :"", 
-        "description" :""
+        "pic" :"null", 
+        "name" :"null", 
+        "description" :"null"
         }, 
       "best_weapons" :[
-        "", 
-        "", 
-        ""
+        "null", 
+        "null", 
+        "null"
         ], 
       "stats_priority" :[
-        "", 
-        "", 
-        ""
+        "null", 
+        "null", 
+        "null"
         ], 
       "talent_priority" :[
-        "", 
-        "", 
-        ""
+        "null", 
+        "null", 
+        "null"
         ], 
       "images" :{
-        "ascension_materials" :"", 
-        "best_team" :"", 
-        "icon" :"", 
-        "banner" :"", 
+        "ascension_materials" :"null", 
+        "best_team" :"null", 
+        "icon" :"null", 
+        "banner" :"null", 
         "fanart" :[
-        "", 
-        "", 
-        ""
+        "null", 
+        "null", 
+        "null"
         ]
       }
     }
