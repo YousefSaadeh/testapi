@@ -48,138 +48,46 @@
     },
     "aloy" :
     {
-      "name" :"Albedo", 
-      "element" :"geo", 
-      "weapon" :"sword", 
-      "rarity" :"5", 
-      "nation" :"Mondstadt", 
-      "affiliation" :"Knights of Favonius", 
-      "constellation" :"Princeps Cretaceus", 
-      "description" :"A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.", 
-      "hello" :"I am Albedo, Chief Alchemist of the Knights of Favonius. You carry the aura of the stars, interesting... I would like to study you, if you do not mind. I'm certain we will have many opportunities to be alone in the future.", 
-      "phrase" :"Don’t be nervous. My experiments may be dangerous, but no one gets hurt… most of the time.", 
+      "name" :"", 
+      "element" :"", 
+      "weapon" :"", 
+      "rarity" :"", 
+      "nation" :"", 
+      "affiliation" :"", 
+      "constellation" :"", 
+      "description" :"", 
+      "hello" :"", 
+      "phrase" :"", 
       "namecard" :
         {
-        "pic" :"https://i.imgur.com/JOYiWwI.png", 
-        "name" :"Albedo: Sun Blossom", 
-        "description" :"Allow me to bear witness to this miracle."
+        "pic" :"", 
+        "name" :"", 
+        "description" :""
         }, 
       "best_weapons" :[
-        "Cinnabar Spindle", 
-        "Harbinger of Dawn", 
-        "Primordial Jade Cutter"
+        "", 
+        "", 
+        ""
         ], 
       "stats_priority" :[
-        "CRIT Rate", 
-        "CRIT DMG", 
-        "DEF%"
+        "", 
+        "", 
+        ""
         ], 
       "talent_priority" :[
-        "Elemental Skill", 
-        "Elemental Burst", 
-        "Normal Attack"
+        "", 
+        "", 
+        ""
         ], 
       "images" :{
-        "ascension_materials" :"https://i.imgur.com/dnZBIn8.jpg", 
-        "best_team" :"https://i.imgur.com/ytmR1r7.jpg", 
-        "icon" :"https://i.imgur.com/SOm7c15.png", 
-        "banner" :"https://i.imgur.com/8wlnH4M.jpg", 
+        "ascension_materials" :"", 
+        "best_team" :"", 
+        "icon" :"", 
+        "banner" :"", 
         "fanart" :[
-        "https://i.imgur.com/s5ht5Py.png", 
-        "https://i.imgur.com/7Xfanwg.png", 
-        "https://i.imgur.com/1AY8zr9.png"
+        "", 
+        "", 
+        ""
         ]
       }
-    }, 
-    "amber" :
-    {
-      "name" :"Albedo", 
-      "element" :"geo", 
-      "weapon" :"sword", 
-      "rarity" :"5", 
-      "nation" :"Mondstadt", 
-      "affiliation" :"Knights of Favonius", 
-      "constellation" :"Princeps Cretaceus", 
-      "description" :"A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.", 
-      "hello" :"I am Albedo, Chief Alchemist of the Knights of Favonius. You carry the aura of the stars, interesting... I would like to study you, if you do not mind. I'm certain we will have many opportunities to be alone in the future.", 
-      "phrase" :"Don’t be nervous. My experiments may be dangerous, but no one gets hurt… most of the time.", 
-      "namecard" :
-        {
-        "pic" :"https://i.imgur.com/JOYiWwI.png", 
-        "name" :"Albedo: Sun Blossom", 
-        "description" :"Allow me to bear witness to this miracle."
-        }, 
-      "best_weapons" :[
-        "Cinnabar Spindle", 
-        "Harbinger of Dawn", 
-        "Primordial Jade Cutter"
-        ], 
-      "stats_priority" :[
-        "CRIT Rate", 
-        "CRIT DMG", 
-        "DEF%"
-        ], 
-      "talent_priority" :[
-        "Elemental Skill", 
-        "Elemental Burst", 
-        "Normal Attack"
-        ], 
-      "images" :{
-        "ascension_materials" :"https://i.imgur.com/dnZBIn8.jpg", 
-        "best_team" :"https://i.imgur.com/ytmR1r7.jpg", 
-        "icon" :"https://i.imgur.com/SOm7c15.png", 
-        "banner" :"https://i.imgur.com/8wlnH4M.jpg", 
-        "fanart" :[
-        "https://i.imgur.com/s5ht5Py.png", 
-        "https://i.imgur.com/7Xfanwg.png", 
-        "https://i.imgur.com/1AY8zr9.png"
-        ]
-      }
-    },
-    "itto" :
-    {
-      "name" :"Albedo", 
-      "element" :"geo", 
-      "weapon" :"sword", 
-      "rarity" :"5", 
-      "nation" :"Mondstadt", 
-      "affiliation" :"Knights of Favonius", 
-      "constellation" :"Princeps Cretaceus", 
-      "description" :"A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.", 
-      "hello" :"I am Albedo, Chief Alchemist of the Knights of Favonius. You carry the aura of the stars, interesting... I would like to study you, if you do not mind. I'm certain we will have many opportunities to be alone in the future.", 
-      "phrase" :"Don’t be nervous. My experiments may be dangerous, but no one gets hurt… most of the time.", 
-      "namecard" :
-        {
-        "pic" :"https://i.imgur.com/JOYiWwI.png", 
-        "name" :"Albedo: Sun Blossom", 
-        "description" :"Allow me to bear witness to this miracle."
-        }, 
-      "best_weapons" :[
-        "Cinnabar Spindle", 
-        "Harbinger of Dawn", 
-        "Primordial Jade Cutter"
-        ], 
-      "stats_priority" :[
-        "CRIT Rate", 
-        "CRIT DMG", 
-        "DEF%"
-        ], 
-      "talent_priority" :[
-        "Elemental Skill", 
-        "Elemental Burst", 
-        "Normal Attack"
-        ], 
-      "images" :{
-        "ascension_materials" :"https://i.imgur.com/dnZBIn8.jpg", 
-        "best_team" :"https://i.imgur.com/ytmR1r7.jpg", 
-        "icon" :"https://i.imgur.com/SOm7c15.png", 
-        "banner" :"https://i.imgur.com/8wlnH4M.jpg", 
-        "fanart" :[
-        "https://i.imgur.com/s5ht5Py.png", 
-        "https://i.imgur.com/7Xfanwg.png", 
-        "https://i.imgur.com/1AY8zr9.png"
-        ]
-      }
-    },
     }
- }
