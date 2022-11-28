@@ -1,5 +1,5 @@
 {
-  "en" :{
+  {"en" :{
       "name" :"Albedo", 
       "element" :"geo", 
       "weapon" :"sword", 
@@ -45,4 +45,5 @@
    "ar" :{
      "name" :"البيدو", "element" :"ارض", "weapon" :"سيف", "rarity" :"5", "nation" :"موندستاد", "affiliation" :"فرسان فافونيوس", "constellation" :"null", "description" :"عبقري معروف باسم Kreideprinz ، وهو كبير الخيميائيين وكابتن فريق التحقيق في فرسان فافونيوس.", "hello" :"أنا ألبيدو ، رئيس كيميائيي فرسان فافونيوس. أنت تحمل هالة النجوم ، مثيرة للاهتمام ... أود أن أدرسك ، إذا كنت لا تمانع. أنا متأكد من أنه سيكون لدينا العديد من الفرص لنكون بمفردنا في المستقبل.", "phrase" :"null", "namecard" :{"pic" :"null", "name" :"null", "description" :"null"}, "best_weapons" :["null", "null", "null"], "stats_priority" :["null", "null", "null"], "talent_priority" :["null", "null", "null"], "images" :{"ascension_materials" :"null", "best_team" :"null", "icon" :"null", "banner" :"null", "fanart" :["null", "null", "null"]}
     }
+   } 
 } 
